@@ -1,0 +1,12 @@
+phidata 
+packaging
+duckduckgo-search
+uvicorn
+streamlit>=1.30.0
+python-dotenv
+phi
+firecrawl
+yfinance
+duckduckgo-search
+google-generativeai
+groq
